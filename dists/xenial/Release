@@ -1,0 +1,20 @@
+Origin: HhnTbRepro
+Label: HhnTbRepo Github
+Suite: stable
+Codename: xenial
+Date: Tue, 09 May 2017 19:01:19 UTC
+Architectures: amd64
+Components: main
+Description: todo
+MD5Sum:
+ dce284fb75aaa7104667a5bad2ce1f07 589 main/binary-amd64/Packages
+ 14e5b2d34001f80bb235c08b73d46519 407 main/binary-amd64/Packages.gz
+ 735a065b20b21952a0b72354eec7ffd7 113 main/binary-amd64/Release
+SHA1:
+ d7c059c839e127c3b41cd93a93f31734cd4d5624 589 main/binary-amd64/Packages
+ 7a7c8c5f4e913d47862aceffd7e97843a24a97b8 407 main/binary-amd64/Packages.gz
+ c3f297c6c38c725b3c7ca54938c1892f082ce1a8 113 main/binary-amd64/Release
+SHA256:
+ d87626f0b9166633e145080718a0ac3e78b758cc8ca0db605bd523d647e0d43a 589 main/binary-amd64/Packages
+ 6983289c3ef4fb586f548870253b51ef708541eaad40ac3f4fb0dbb3561c7143 407 main/binary-amd64/Packages.gz
+ b259719ea668d43390dff071bc5cd64a49016b793c66b26906dcb9fe7ed37077 113 main/binary-amd64/Release

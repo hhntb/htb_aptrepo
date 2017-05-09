@@ -1,0 +1,7 @@
+Origin: HhnTbRepro
+Label: HhnTbRepo Github
+Suite: stable
+Codename: xenial
+Architectures: amd64
+Components: main
+Description: todo

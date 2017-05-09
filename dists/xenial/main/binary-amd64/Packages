@@ -1,0 +1,17 @@
+Package: libfreenect2
+Version: 0.2.0
+Architecture: amd64
+Depends: libturbojpeg
+Maintainer: Björn Eistel <eistel@gmail.com>
+Homepage: https://github.com/OpenKinect/libfreenect2/
+Priority: optional
+Section: misc
+Filename: pool/main/libf/libfreenect2/libfreenect2_0.2.0_amd64.deb
+Size: 349664
+SHA256: 6b54b2ccb81870419a5d0aaf7e0c1e7a7e8ed88c89767720d446361d28f95afc
+SHA1: 96ec2e14b45c8edf9dd4a3a8fd3a14ac140bcb1d
+MD5sum: b2530a6d7c26fdab67b12cb5faefc777
+Description: Driver for Kinect One (v2)
+ This Package is a simple deb-Wrapper
+ Source-Code: https://github.com/OpenKinect/libfreenect2/
+
