@@ -22,7 +22,7 @@ sudo apt-get install apt-transport-https
 Add Repo to APT-Sources (``/etc/apt/sources.list``):
 
 ```
-deb https://raw.githubusercontent.com/hhntb/htbrepo/master xenial main
+deb https://raw.githubusercontent.com/hhntb/htb_aptrepo/master xenial main
 ```
 
 Update APT-Sources:
